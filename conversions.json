@@ -1,0 +1,12 @@
+{
+    "General": {
+        "dl:l": 0.1,
+        "cl:dl": 0.1,
+        "ml:cl": 0.1,
+        "tsk:ml": 15,
+        "msk:ml": 15
+    },
+    "Special Mjöl": {
+        "dl:g": 61.5
+    }
+}

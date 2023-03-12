@@ -1,2 +1,2 @@
 # RecipeCalculator
-Scale recipes to your prefered size
+Scale recipes to your preferred size
